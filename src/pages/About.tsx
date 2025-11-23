@@ -90,7 +90,7 @@ const About: React.FC = () => {
     { name: 'GSAP', description: '动画库', color: '#88ce02' },
     { name: 'Tailwind CSS', description: '样式框架', color: '#06b6d4' },
     { name: 'Vite', description: '构建工具', color: '#646cff' },
-    { name: 'Cloudflare Pages', description: '部署平台', color: '#f38020' }
+    { name: 'Cloudflare', description: '安全防御平台', color: '#f38020' }
   ];
 
   return (
@@ -295,7 +295,7 @@ const About: React.FC = () => {
                     技术支持
                   </h3>
                   <p className="text-sm text-gray-600">
-                    support@example.com
+                    info@zyhorg.cn
                   </p>
                 </div>
               </div>
